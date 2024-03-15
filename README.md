@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am new to GitHub and I hope to to contribute to the GitHub awesome projects and be part of its community.
+I am new to GitHub and I hope to contribute to the GitHub awesome projects and be part of its community.
 
 - 🌱 I’m currently learning C language
 - 🧪 I'm trying to become an expert in Python and most contribution will be to python projects.
