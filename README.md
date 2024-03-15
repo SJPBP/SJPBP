@@ -3,7 +3,7 @@
 I am new to GitHub and I hope to contribute to the GitHub awesome projects and be part of its community.
 
 - 🌱 I’m currently learning C language
-- 🧪 I'm trying to become an expert in Python and most contribution will be to python projects.
+- 🧪 I'm trying to become an expert in Python and Mt future contribution mostly will be to python projects.
 - 🫠 My new journey to Github will be a tiring one and hope to get all of the support from GitHub awesome community
 
 <!--
